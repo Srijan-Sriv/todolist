@@ -1,6 +1,5 @@
 # Minimalist TodoList
 
----
 
 This is a project made entirely on React.js and is exactly what it sounds like. It has a basic UI in order to save any hassle and just focus on your tasks.
 
