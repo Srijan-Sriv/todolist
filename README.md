@@ -6,7 +6,7 @@ This is a project made entirely on React.js and is exactly what it sounds like. 
 ---
 To contribute or undertand the code you may contact me personally, since I probably wont be fixated on this particular code.
 
-This is the [site](https://srijan-sriv.github.io/todolist/).
+This is the [site](https://srijansriv.github.io/react-test/).
 
 ---
 Apparently, as of 15.05.2021 this doesn't work as only the body (with its css done) is the only thing that shows up. So I will explain everything I did uptil this date.
